@@ -1,5 +1,10 @@
 ## Hi there 👋
 
+I'm Stephan Munroe, A Data Scientist Based in the UK
+
+I mostly work with large clinical datasets but i'm expanding into EEG data and bioinformatics 
+
+
 <!--
 **Stephjm24/Stephjm24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
