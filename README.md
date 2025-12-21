@@ -1,4 +1,4 @@
-## Hey 💪
+## About Me 💪
 
 I'm **Stephan Munroe**, a clinical neuroscience–focused data scientist based in the UK.
 
@@ -18,10 +18,3 @@ I work with **large-scale clinical and neuropsychological datasets**, mainly in 
 - **Languages:** R, Python, SQL, Excel  
 - **Stats & analysis:** regression modelling, survey & cognitive data analysis  
 - **Environment:** RStudio, VS Code, Spyder, SPSS, STATA
-
----
-
-## 👋 A bit about me
-- I enjoy research that sits close to real patients  
-- I’ve worked extensively with clinical and NHS data  
-- I genuinely enjoy statistics — and I’ve never done badly in it so far👌
