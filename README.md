@@ -1,20 +1,25 @@
-## About Me 💪
+# Stephan Munroe
 
-I'm **Stephan Munroe**, a clinical neuroscience–focused data scientist based in the UK.
+**Clinical neuroscience · Applied AI · Technical leadership**
 
-I work with **large-scale clinical and neuropsychological datasets**, mainly in epilepsy, substance use, and neurodegenerative disease, with a focus on translating analysis into clinically meaningful insight.
+My work starts with a clinical question: what would make this useful in practice?
 
----
+I'm a clinical neuroscientist and applied AI developer, working as an **AI Development Analyst at Cambridge University Hospitals NHS Foundation Trust** and **Co-Founder & CTO at NeuroPath Biosciences**.
 
-## 🧠 What I work on
-- Clinical & neuropsychological data (including NHS datasets)
-- Cognitive outcomes in epilepsy, substance use disorders, and ALS
-- Longitudinal and psychometric analysis  
-- Growing focus on EEG and multimodal biomarkers
+## From evidence to implementation
 
----
+- **Understand the data:** clinical and neuropsychological analysis, statistical modelling and visualisation.
+- **Build the workflow:** AI agents with explicit escalation, record keeping and evaluation.
+- **Design the system:** translate clinical requirements into architecture, implementation plans and governance controls.
 
-## 🔧 Tools
-- **Languages:** R, Python, SQL, Excel  
-- **Stats & analysis:** regression modelling, survey & cognitive data analysis  
-- **Environment:** RStudio, VS Code, Spyder, SPSS, STATA
+I use **Python and R** for analysis, and **Copilot Studio, Power Automate and Dataverse** for AI workflows.
+
+## What I'm developing next
+
+Deeper applied AI engineering and solutions architecture, with a focus on agent evaluation, workflow reliability and multimodal clinical data systems.
+
+## Selected work
+
+[**WaitWise**](https://github.com/khayamumair/waitwise) — contributor to a team hackathon prototype for NHS waiting-list coordination using synthetic data.
+
+[LinkedIn](https://www.linkedin.com/in/stephanmunroe/)
